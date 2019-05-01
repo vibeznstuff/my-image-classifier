@@ -2,3 +2,4 @@ test_set_cats_dogs/
 training_set_cats_dogs/
 POKEMON/
 Images/
+output/simple_nn.model
